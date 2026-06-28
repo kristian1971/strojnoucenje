@@ -1,2 +1,0 @@
-# strojnoucenje
-Teorijski dio:
